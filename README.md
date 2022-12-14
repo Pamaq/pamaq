@@ -2,7 +2,7 @@
 
 Here is some info about me:
 
-- 🔭 I’m currently working on JS course exercises.
+- 🔭 I’m currently training my knowledge of JS and polishing my css skills.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: paulinakuta00@gmail.com
 - 😄 Pronouns: she/her
