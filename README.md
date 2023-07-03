@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Paulina! I am a second-year Computer Science student at Lublin University of Technology.
+### Hi there 👋 I'm Paulina! I am a third-year Computer Science student at Lublin University of Technology.
 
 Here is some info about me:
 
